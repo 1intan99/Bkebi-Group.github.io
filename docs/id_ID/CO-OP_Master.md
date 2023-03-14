@@ -1,17 +1,17 @@
-# 联机主要者
+# CO-OP Master
 
-> CO-OP Master，也被称作为"主机"。
+> Juga di kenal sebagi "Host"。
 
-## 什么是 `联机主要者` ？
+## Siapa itu `CO-OP Master` ？
 
-拥有当前世界所有事件并能决定这些事件的客户端的玩家，可以在客户端上修改大部分世界事件并使其生效。而其他玩家即为事件接收者，能够被修改的世界类事件非常有限。
+Di CO-OP Mode, dia adalah pemain utama yang berada di posisi utama di dalam server, dan bisa memodifikasi sebgaian besar peristiwa di dunia dan mengunggah nya ke server untuk mendapatkan efek nya. Pemain lain adalah penerima peristiwa, dan hanya sedikit peristiwa yang bisa di modifikasi.
 
-## 如何成为 `联机主要者` ？
+## Bagaimana cara menjadi `CO-OP Master` ？
 
-目前有三种状态: 
+Saat ini ada berbagai macam cara ubtuk merealisasikannya:
 
-- `大世界` 一定区域内第一位进入这个区域的玩家。
+- `Teyvat` Dalam rentang tertentu, memasukan ikan.
 
-- `秘境` 副本邀请时最后一位进入队伍配置的玩家。
+- `Domains` Monster pertama yang muncul.
 
-- `征讨领域` 秘境内第一位进入秘境的玩家。
+- `Tronuce Domain` Memasuki domain di awal.

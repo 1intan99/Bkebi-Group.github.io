@@ -1,12 +1,12 @@
-# 配置
+# Konfigurasi
 
-> Bkebi 支持多种配置文件切换和绑定，先简单介绍一下这两项功能。
+> Bkebi mendukung banyak pengalihan dan pengikatan file konfigurasi, mari perkenalkan secara singkat kedua fungsi ini terlebih dahulu
 
-## 切换
+## Menukar Konfigurasi
 
-开启辅助后在功能界面的左上方切换配置
+Alihkan konfigurasi di kiri atas UI setelah mengaktifkan bantuan.
 
-![](_images/QuickStart/ConfigureSwitch.png "切换配置")
+![](_images/QuickStart/ConfigureSwitch.png "Beralih konfigurasi")
 
 ## 绑定
 

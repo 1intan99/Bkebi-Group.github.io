@@ -1,4 +1,4 @@
 - Languages / 语言
   - [:cn: 简体中文](/)
   - [:us: English](/en_US/)
-  - [:id: Indonesia](/id_ID/)
+  - [:flag_id: Indonesia](/id_ID/)

@@ -1,20 +1,20 @@
-# 世界
+# Dunia / World
 
 > "`Hallo World`"零基础教程，三分钟从入门到入土。
 
 ------
 
-## 其他
+## Dan Lain-Lain
 
-### 立即打开队伍界面
+### Membuka Menu Tim Dengan Cepat 
 
-在打开队伍配置时 将不会有2秒的非战斗等待时间。
+Gaperlu Lagi Menunggu 2 Detik Untuk Membuka Menu Pemilihan Tim。
 
 ![Open_Team_Immediately.gif](_images/World/Open_Team_Immediately.gif)
 
-### 跳过强化动画
+### Melewati Animasi Enchance Senjata / Artifact
 
-跳过武器和圣遗物的等级提升对话框。
+Melewati Animasi Enchance Senjata / Artifact。
 
 ![Skip_Enhance_Animation.gif](_images/World/Skip_Enhance_Animation.gif)
 
@@ -24,183 +24,183 @@
 
 ![Show_Level-Up_Dialog_For_Substat_Rolls.png](_images/World/Show_Level-Up_Dialog_For_Substat_Rolls.png)
 
-### 敌人变傻
+### Membuat Musuh Lu Jadi Agak Sinting
 
-所有魔物将不会对玩家发起任何攻击行为。
+Semua Muusuh Ga Akan Nyerang lu 。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效。
+- Hanya Tersedia Di Mode CO-OP[<font>**`联机主要者`**</font>](/CO-OP_Master.md)Efektif Ketika。
 
 ![Dumb_Enemies.gif](_images/World/Dumb_Enemies.gif)
 
-### 冻结敌人
+### Membekukan Muusu / Membuat Musuh Diam Di Tempat
 
-停止所有魔物的动作。
+Membuat Semua Monster Berhenti。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效 但在任何情况下你都不会被怪物击中。
+- Hanya Tersedia Di Mode CO-OP[<font>**`联机主要者`**</font>](/CO-OP_Master.md)Efektif dilakukan pada saat pertarungan langsung, tetapi Anda tidak akan terkena serangan musuh。
 
 ![Freeze_Enemies.gif](_images/World/Freeze_Enemies.gif)
 
-### 永久元素视野
+### Menghidupkan Elemental Sight Permanen
 
-元素视野将保持启用状态。
+Elemental Sight tetap Aktif。
 
 ![Permanent_Elemental_Sight.png](_images/World/Permanent_Elemental_Sight.png)
 
 -----
 
-## 自动挑战
+## Challenge Otomatis
 
-> 自动收集元素微粒等挑战道具。
+> Mengumpulkan item yang dihasilkan dari Challenge secara otomatis。
 
-### 启用
+### Akif
 
-是否启用`自动挑战`。
+Aktif atau Tidak`自动挑战`。
 
 ![Auto_Challenge.gif](_images/World/Auto_Challenge.gif)
 
-### 引爆炸药桶
+### Otomatis Meledakkan Bomb
 
-自动引爆炸药桶。
+Otomatis Meledakkan Bomb / Barrel。
 
-- 风险未知！
+- Resiko tidak diketahui！
 
 ![Destroy_Bomb.gif](_images/World/Destroy_Bomb.gif)
 
-### 自定义挑战
+### Challenge Custom
 
-收集指定的道具。
+Mengumpulkan Item yang ditentukan。
 
-#### 启用自定义挑战
+#### Mengaktifkan Challenge Otomatis
 
-是否启用`自定义挑战`。
+Aktif atau Tidak `自定义挑战`。
 
-#### 显示的昵称
+#### Nickname Yang Ditampilkan
 
-指定此项在列表中的名称。
+Menentukan nama Item dalam daftar。
 
-#### 道具ID
+#### ID Items
 
-指定需要收集的道具的`道具ID`。
+Menentukan Item yang di dapatkan`道具ID`。
 
-- 可在`调试`-`显示的昵称`-`实体管理器`中`ID`列获取周围道具的`道具ID`。
+- Tersedia Di `调试`-`显示的昵称`-`实体管理器`Tengah`ID`Kolom Untuk mendapatkan Item`道具ID`。
 
-#### 添加
+#### Menambahkan 
 
-添加名称为`显示的昵称`的一项 用于收集ID为`道具ID`的道具。
+Menambahkan Nama Sebagai `显示的昵称` Item Dari Koleksi ID Adalah`道具ID`Atribut。
 
 ------
 
-## 自动烹饪
+## Memasak Otomatis
 
-> 快速完成烹饪操作。
+> Menyelesaikan proses memasak dengan cepat。
 
-### 启用
+### Mengaktifkan
 
-是否启用`自动烹饪`。
+Apakah sudah Diaktifkan`自动烹饪`。
 
 ![Auto_Cook.gif](_images/World/Auto_Cook.gif)
 
-### 快速熟练
+### Kecakapan Cepat
 
-尽可能快速的将一份未解锁自动烹饪的食物解锁自动烹饪。
+Membuka kunci makanan yang dimasak secara otomatis dengan secepat mungkin。
 
 ![Fast_Proficiency.gif](_images/World/Fast_Proficiency.gif)
 
-### 质量
+### Kualitas
 
-指定手动烹饪的食物成品质量。
+Menentukan kualitas akhir dari makanan yang dimasak secara manual。
 
-- 可选择: `美味的` `普通` `奇怪的`
+- Opsional: `美味的` `普通` `奇怪的`
 
 ------
 
-## 自动摧毁物体
+## Otomatis Menghancurkan Objek
 
-> 自动摧毁非生物类物体。
+> Otomatis Menghancurkan Benda Mati。
 
 
-### 启用
+### Aktifkan
 
-是否启用`自动摧毁物体`。
+Apakah Sudah Diaktifkan? `secara otomatis menghancurkan objek`。
 
-- 可选类型: 
-  - `矿物` 矿物及其变种 包括电气水晶、晶化骨髓等。
-  - `护盾` 深渊法师/深渊使徒/史莱姆的护盾。
-  - `杂物` 桶、箱、花瓶等。
-  - `特殊对象` 雪山大冰块、大小石堆。
-  - `特殊宝箱` 宝箱上的荆棘、冰块、石头。
-    - 此项可能会摧毁地脉花 使其不可见！
+- Tipe Yang Tersedia: 
+  - `Mineral` Minerals and their variants including electric crystals, crystallized bone marrow, etc.。
+  - `Tameng` Abyss Mage/Abyss Apostle/Slime's Shield。
+  - `Serba-serbi` Barrels, boxes, vases, etc.。
+  - `Objek Khusus` Big ice cubes and large and small stone piles in snow mountains。
+  - `Harta Karun Khusus` Thorns, ice, stones on treasure chests。
+    - Item ini dapat menghancurkan Bunga Leyline, membuatnya tidak terlihat！
 
-#### 范围 (米)
+#### Jarak (M)
 
-设定`自动摧毁物体`的生效范围。
+Menerapkan`Jarak efektif`Untuk Menghancurkan Objek。
 
 ![Auto_Destroy_Objects.gif](_images/World/Auto_Destroy_Objects.gif)
 
 ------
 
-## 自动钓鱼
+## Memancing Otomatis
 
-> 当前上钩的鱼立即入包。
+> Ikan yang sudah terpancing langsung dimasukkan ke dalam kantong。
 
-### 启用
+### Mengaktifkan
 
-是否启用`自动钓鱼`。
+Apakah Sudah Di Aktifkan`Memancing Otomatis`。
 
 ![Auto_Fish.gif](_images/World/Auto_Fish.gif)
 
 ### 重新抛竿
 
-重置抛竿状态，使你在不重新抛竿的情况下能够继续钓鱼。
+Setel ulang status casting agar Anda dapat terus memancing tanpa perlu memasang kembali umpan。
 
-- 重置抛竿状态时没有任何提示。
+- Tidak ada isyarat ketika mengatur ulang status casting.
 
 ------
 
-## 自动收集
+## Pengambilan Otomatis
 
-> 自动收集材料、宝箱、神瞳等各种物品。
+> Otomatis mengambil Material, Harta Karun, dan Item Lainya。
 
-### 自动拾取
+### Mengambil Otomatis
 
-自动拾取掉落物、材料等。
+Secara otomatis mengambil benda yang jatuh, material, dll.。
 
-- 类似于自动按 `F` 。
+- Mirip dengan menekan `F` secara otomatis 。
 
 ![Auto-Pickup.gif](_images/World/Auto-Pickup.gif)
 
-#### 当背包上限时自动关闭
+#### Mati secara otomatis saat ransel mencapai batas atas
 
-当背包达到上限时关闭`自动拾取`。
+Matikan `auto-pickup` saat ransel mencapai batas。
 
-### 自动交互
+### Interaksi Otomatis
 
-自动交互选定事件。
+Secara otomatis berinteraksi dengan NPC yang dipilih。
 
 ![Auto-Treasure.gif](_images/World/Auto-Treasure.gif)
 
-- 可选类型: 
-  - `宝箱` 普通的宝箱、珍贵的宝箱、华丽的宝箱等。
-  - `地脉花` 摩拉/经验、主世界/周本boss等。
-  - `调查点` 标记为 调查/搜索 的点位等。
-  - `任务交互点` 有效的任务交互点。
-  - `其他` 书页、唱片等。
+- jenis opsional:
+   - `Peti Harta Karun` Peti harta karun umum, peti harta karun berharga, peti harta karun cantik, dll.
+   - `Earth Vein Flower` Mora/pengalaman, dunia utama/bos mingguan, dll.
+   - Poin `Poin Investigasi` ditandai sebagai investigasi/pencarian dll.
+   - `poin interaksi pencarian` poin interaksi pencarian yang valid.
+   - Halaman buku `Lainnya`, catatan, dll.
 
-### 范围拾取
+### Jarak Pengambilan
 
-提升自身的拾取范围。
+Tingkatkan Jarak Pengambilan。
 
-- 可以直接拾取神瞳 也在`拾取过滤`中配置过滤拾取。
-- 宝箱等交互类事件不会显示在拾取列表 但是可以通过`自动交互`拾取到。
-- 若需要同时开启`自动拾取`或者`自动交互` 请确保在这两者之后开启`范围拾取` 否则设定范围内的物品可能无法被自动拾取。
+- Anda dapat mengambil pupil secara langsung. Anda juga dapat mengonfigurasi pengambilan filter di `Filter Pickup`.
+- Peti harta karun dan acara interaktif lainnya tidak akan ditampilkan dalam daftar pengambilan tetapi dapat diambil melalui `interaksi otomatis`.
+- Jika Anda perlu mengaktifkan `Pengambilan Otomatis` atau `Interaksi Otomatis` pada saat yang sama, harap pastikan untuk mengaktifkan `Penjemputan Rentang` setelah keduanya, jika tidak, item dalam rentang yang ditetapkan mungkin tidak diambil secara otomatis.
 
 ![Custom_Pickup_Range.png](_images/World/Custom_Pickup_Range.png)
 
-### 拾取速度
+### Kecepatan Mengambil
 
-设定每一次收集物品的间隔时间。
+Tetapkan waktu interval antara setiap koleksi item。
 
-### 随机拾取延迟
+### Waktu Pengambilan acak
 
 设定每一次收集物品的间隔时间为`随机间隔`。
 
