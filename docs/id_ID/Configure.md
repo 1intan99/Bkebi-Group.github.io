@@ -8,17 +8,16 @@ Alihkan konfigurasi di kiri atas UI setelah mengaktifkan bantuan.
 
 ![](_images/QuickStart/ConfigureSwitch.png "Beralih konfigurasi")
 
-## 绑定
+## Untuk mengaplikasikan
 
-如果您不想每一次上号都进行一次切换配置，那么您可以对配置文件进行绑定
+Jika Anda tidak ingin mengubah konfigurasi setiap kali membuat akun baru, Anda dapat mengaplikasikan file konfigurasi
 
 ![](_images/QuickStart/ConfigureBinding.png)
 
-## 配置模板
+## Template konfigurasi
 
-Bkebi 的使用多种多样，有些旅行者可能因为自己胡乱调整配置导致抓进小黑屋里，所以这里列举一些配置模板进行参考。但是请注意，收益和风险总是并存，所以，怕别开，开别怕。
-
-模板来源“[Bkebi中文使用图文教程1.0](https://www.kdocs.cn/l/csNDRjijraFk)”，并打包好了配置文件[下载](https://wwzb.lanzoue.com/iO3w90lzx51g)。
+Bkebi dapat di gunakan dalam berbagai cara. dan beberapa traveler mungkin terkana ban karena settingan mereka yang di luar nalar. Tetapi tidak luput dari resiko, jadi jangan menggunakan cit jika kamu takut, jangan takut untuk menggunakan cit.
+源“[Bkebi中文使用图文教程1.0](https://www.kdocs.cn/l/csNDRjijraFk)”，并打包好了配置文件[下载](https://wwzb.lanzoue.com/iO3w90lzx51g)。
 
 ### A配置--大号使用
 
