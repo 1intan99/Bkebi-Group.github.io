@@ -1,18 +1,17 @@
-# Bkebi 文件介绍
+# Bkebi Pengantar
 
-| **文件名/文件夹名**      | **说明**       |
+| **NAMA FILE/FOLDER**      | **PENJELASAN**       |
 |:-----------------:|:------------:|
-| BKEBI-ISFREE-NOT4SALE.LIC  | 密钥文件  |
-| injector\.exe     | Bkebi 本体注入器   |
-| libstdimpact\.dll | Bkebi 本体依赖     |
-| tp_files          | 自定义传送点       |
-| themes            | 主题文件夹         |
-| cfg\.ini          | 注入器配置         |
-| cfg\.json         | Bkebi 配置文件     |
-| imgui\.ini        | Bkebi 内部窗口位置 |
+| BKEBI-ISFREE-NOT4SALE.LIC  | FILE LISENSI  |
+| injector\.exe     | File Injektor Bkebi   |
+| libstdimpact\.dll | File Utama Bkebi     |
+| tp_files          | Folder Teleportasi       |
+| themes            | Folder Tema         |
+| cfg\.ini          | File Konfigurasi Injektor         |
+| cfg\.json         | Konfigurasi Bkebi     |
+| imgui\.ini        | Konfigurasi Ukuran GUI Bkebi |
 
-推荐备份保存 `cfg.json` 文件，此文件里不仅包括 Bkebi 的配置，还有已完成点位的标记。
-笔者个人使用下方 BAT 文件进行启动，会复制备份两个版本。可以复制命名为“start.bat”放在 Bkebi 程序目录下
+Di sarankan untuk mencadangakan file `cfg.json` File ini tidak hanya berisikan konfigurasi Bkebi, tetapi juga penanda yang sudah selesai. Anda dapat membuat file `BAT` yang ada di bawah ini untuk membuat salinan `cfg.json` anda. Beri nama "start.bat" dan jalankan program di dalam folder Bkebi
 
 ```cmd
 @echo off

@@ -18,22 +18,22 @@
 
 Bkebi 的使用多种多样，有些旅行者可能因为自己胡乱调整配置导致抓进小黑屋里，所以这里列举一些配置模板进行参考。但是请注意，收益和风险总是并存，所以，怕别开，开别怕。
 
-模板来源“[Bkebi中文使用图文教程1.0](https://www.kdocs.cn/l/csNDRjijraFk)”，并打包好了配置文件[下载](https://wwzb.lanzoue.com/iO3w90lzx51g)。
+Sumber Template "[Tutorial Bahasa Mandarin Bkebi 1.0](https://www.kdocs.cn/l/csNDRjijraFk)”，dan di kemas dengan file konfigurasi [Unduh](https://wwzb.lanzoue.com/iO3w90lzx51g)。
 
-### A配置--大号使用
+### Konfigurasi A -- Penggunaan dengan jumlah banyak
 
-* 玩家类
-  * 多重攻击（5-7倍随机倍数）
-  * 无限E/Q（满元素爆发能量）
-  * 弓箭瞬间蓄力
-  * 无限体力（拦截包发包模式）
-  * 无敌模式（触发条件 15%最小生命值时无敌，平时有30%概率闪避伤害）
-  * 自由移动（25倍加速）
+* Pemain
+  * Serangan ganda（serangan acak 5-7）
+  * E/Q Tak terbatas （Penggunaan element brust）
+  * Stamina busur instan
+  * Stamina tak terbatas (mode kirim paket intersep)
+  * Mode Tak Terkalahkan（kondisi pemicu pada 15% nyawa minimum, 30% peluang menghindari kerusakan）
+  * Gerakan bebas（akselerasi 25x）
 
-* 世界类
-  * 自动挑战、炸药桶自动爆炸（20m，延时2000ms）
-  * 加速烹饪、快速精通烹饪
-  * 自动摧毁物体 矿物、植物(蒲公英等)、杂物（木箱等）（距离5m）
+* Dunia
+  * Quest Otomatis, ledakan otomatis dari tong peledak（20m，delay 2000ms）
+  * Otomatis memasak, memasak dengan cepat dan sempurna
+  * Otomatis menghancurkan objek mineral, tumbuhan (dandelions, dll). 
   * 自动钓鱼（拉杆延时2200重杆延时500）
   * 自动收集、自动宝箱（拾取速度250ms+随机拾取延迟350ms）
   * 拾取范围增加（5m）
